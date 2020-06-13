@@ -5,6 +5,6 @@ The aim over time is to solve difficult problems that require computation and wi
 To run the application:
 
 ```
-npm install
-npm start
+yarn install
+yarn start -- problemType/Id
 ```
